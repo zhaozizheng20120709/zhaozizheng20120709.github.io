@@ -21,7 +21,7 @@ repository               : "zhaozizheng20120709/zhaozizheng20120709.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2024/11/01/pAD2QZn.png" #头像
   name             : "zhaozizheng2012"
   pronouns         : # example: "she/her"  
   bio              : "X"
